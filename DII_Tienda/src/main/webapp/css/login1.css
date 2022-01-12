@@ -1,0 +1,56 @@
+@charset "ISO-8859-1";
+
+
+h1 {
+	color: darkcyan;
+	padding: 10px 0;
+	text-align: center;
+	text-decoration: underline;
+}
+
+.right{
+	float: right;
+}
+
+button:hover {
+	color: #666;
+	background-color: #FFF;
+}
+
+form {
+	width: 500px;
+	padding: 16px;
+	border-radius: 10px;
+	margin: auto;
+	background-color: darkcyan;
+}
+
+form label {
+	font-family: 'Times New Roman', Times, serif;
+	width: 200px;
+	font-size: 20px;
+	display: inline-block;
+}
+
+form input {
+	width: 250px; /*200*/
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 20px;
+	padding: 3px 10px;
+	border: 1px solid #f6f6f6;
+	border-radius: 3px;
+	background-color: #f6f6f6;
+	margin: 8px 0;
+	display: inline-block;
+}
+
+button {
+	width: 200px;
+	height:30px;
+	display: block;
+	margin: auto;
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 16px;
+	background-color: dimgray;
+	color: white;
+}

@@ -1,0 +1,23 @@
+@charset "ISO-8859-1";
+
+h1 {
+	color: darkcyan;
+	padding: 10px 0;
+	/*text-align: center;*/
+	text-decoration: underline;
+}
+
+.boton{
+    /*background: #00b7f8;*/
+    background: darkcyan;
+    border-bottom: 5px solid #0045a6;
+    border-radius: 12px;
+    font-size: 1.3rem;
+    margin: 10px;
+    padding: 10px 10px;
+}
+
+.right{
+	float: right;
+}
+
